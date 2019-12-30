@@ -1,0 +1,9 @@
+const GAME_WIDTH = 400;
+const GAME_HEIGHT = 800;
+const BULLET_BALL_START_X = 200;
+const BULLET_BALL_START_Y = 780;
+const BALL_RADIUS = 20;
+const DIAMETER = 40;
+const BALL_SPEED = 10;
+// const HEIGHT_PER_ROW = Math.sqrt(3) * BALL_RADIUS;
+const HEIGHT_PER_ROW = 40;

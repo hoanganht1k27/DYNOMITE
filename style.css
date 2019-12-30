@@ -1,0 +1,15 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background: black url('images/bg (2).png') no-repeat center top;
+	padding-top: 20px;
+}
+
+canvas {
+	/* border: 1px solid white; */
+	margin: 0px auto;
+	display: block;
+}
